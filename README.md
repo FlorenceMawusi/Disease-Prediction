@@ -1,2 +1,2 @@
 # Disease-Prediction
-Testing logistic regression, SVM, neural networks, and LLL finetuning on disease classification
+Testing logistic regression, SVM, neural networks, and LLM finetuning on disease classification
